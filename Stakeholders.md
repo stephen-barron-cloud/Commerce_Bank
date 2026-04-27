@@ -8,9 +8,10 @@
 ## Fortinet
 | Name | Title |
 | -------------------- |  -------------------- |  
-| Jon Hickel | Account Executive |
+| Shumon Banerjee | Account Executive |
 | Stephen Barron | Solutions Engineer |
-| Brock Young | Inside Sales Representative |
+| Shakie Doe-Williams | Inside Sales Representative |
+
 
 
 ## Partner
